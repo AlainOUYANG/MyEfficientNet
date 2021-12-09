@@ -1,0 +1,6 @@
+torch~=1.9.1
+torchvision~=0.10.1
+visdom~=0.1.8.9
+scikit-learn~=0.24.2
+prettytable~=2.4.0
+pillow~=8.3.1
